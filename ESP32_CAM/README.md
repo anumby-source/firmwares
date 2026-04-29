@@ -1,1 +1,1 @@
-# Firmware pour ESP32 CAM AI THINKER
+# Firmware pour ESP32 CAM Ai Thinker ESP32 Cam
