@@ -7,3 +7,9 @@ Apprentissage par MaixHub
 
 # key_gen_V1.2
 
+Récupération du code machine du module M5Stack UnitV (nécessaire pour télécharger un modèle):
+   
+   voir https://maixhub.com/share/6
+   - se logger sur le site MaixHub
+   - flasher avec kflash_gui sur la carte UnitV à l'adresse 0X000000
+   - lancer un terminal (screen, putty, …) et rebooter la carte. Le code apparait dans la fenêtre.
