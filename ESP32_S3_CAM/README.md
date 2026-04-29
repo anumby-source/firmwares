@@ -17,7 +17,7 @@ Le firmware contient le driver pour le st7789 (non testé)
 
 2) firmware.bin
    
-   https://github.com/cnadler86/micropython-camera-API
+   voir https://github.com/cnadler86/micropython-camera-API
 
  Basé sur une release micropython récente : 1.27 (2026-01)
 
